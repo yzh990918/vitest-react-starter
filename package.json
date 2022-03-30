@@ -17,6 +17,8 @@
     "usehooks-ts": "^2.4.2"
   },
   "devDependencies": {
+    "@commitlint/cli": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.1",
     "@antfu/eslint-config": "^0.18.8",
     "@iconify-json/carbon": "^1.1.2",
     "@testing-library/react": "^12.1.4",
